@@ -28,7 +28,7 @@ I’m looking to collaborate on interesting open-source projects or research.
 
  #### 📫 How to reach me:
   
-<a href="mailto:phani.kumar855@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gayathri-phani-kumar-kanuri-b31b0b1a1/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/phanikum4r)  &nbsp; ![Phone](https://img.shields.io/badge/Phone-+16029218979-gree?style=for-the-badge&logo=phone&logoColor=white)
+<a href="mailto:phani.kumar855@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gayathri-phani-kumar-kanuri-b31b0b1a1/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/phanikum4r)  &nbsp; ![Phone](https://img.shields.io/badge/Phone-+16029218979-gree?style=for-the-badge&logo=phone&logoColor=white)
 
 
 
