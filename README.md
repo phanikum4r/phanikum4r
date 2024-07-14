@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # About Me:
 
-I am a passionate and curious MS Computer Science student at Arizona State University, where I am learning and applying the latest technologies and techniques in software development, machine learning, and data science. I have a strong academic background in computer science, having graduated from Velagapudi Ramakrishna Siddhartha Engineering College with a BTech degree in 2021. Before joining ASU, I worked as an Application Development Associate at Accenture. Additionally, I have published a research paper on blockchain-based decentralized vehicle booking service, showcasing my innovation and problem-solving skills in emerging domains.
+I am a passionate and curious MS Computer Science student at Arizona State University, where I am learning and applying the latest technologies and techniques in software development, machine learning, and data science. I have a strong academic background in computer science, having graduated from Velagapudi Ramakrishna Siddhartha Engineering College with a BTech degree. Before joining ASU, I worked as an Application Development Associate at Accenture. Additionally, I have published a research paper on blockchain-based decentralized vehicle booking service, showcasing my innovation and problem-solving skills in emerging domains.
 
 <b>Programming Languages:</b> Python, Java, GoLang, JavaScript, C/C++ <br/>
 <b>Frameworks and Libraries:</b> HTML, CSS, Angular.JS, Vue.JS, React.JS, Node.JS, Spring Boot, Express.JS, Django, RESTful APIs <br/>
